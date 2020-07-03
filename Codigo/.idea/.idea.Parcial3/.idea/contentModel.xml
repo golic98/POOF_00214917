@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Mirella\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Mirella\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial3.1059427851.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Mirella\RiderProjects\Parcial3" t="IncludeRecursive">
+      <e p="AgregarDepartamento.cs" t="Include" />
+      <e p="AgregarDepartamento.Designer.cs" t="Include" />
+      <e p="AgregarDepartamento.resx" t="Include" />
+      <e p="AgregarUsuarioGerente.cs" t="Include" />
+      <e p="AgregarUsuarioGerente.Designer.cs" t="Include" />
+      <e p="AgregarUsuarioGerente.resx" t="Include" />
+      <e p="AgregarVigilante.cs" t="Include" />
+      <e p="AgregarVigilante.Designer.cs" t="Include" />
+      <e p="AgregarVigilante.resx" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Conexion.cs" t="Include" />
+      <e p="EliminarUsuarioGerente.cs" t="Include" />
+      <e p="EliminarUsuarioGerente.Designer.cs" t="Include" />
+      <e p="EliminarUsuarioGerente.resx" t="Include" />
+      <e p="Empleado.cs" t="Include" />
+      <e p="Empleado.Designer.cs" t="Include" />
+      <e p="Empleado.resx" t="Include" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="Gerente.cs" t="Include" />
+      <e p="Gerente.Designer.cs" t="Include" />
+      <e p="Gerente.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Option.cs" t="Include" />
+      <e p="Option.Designer.cs" t="Include" />
+      <e p="Option.resx" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Parcial3.csproj" t="IncludeRecursive" />
+      <e p="Parcial3.sln" t="IncludeFlat" />
+      <e p="PasarLista.cs" t="Include" />
+      <e p="PasarLista.Designer.cs" t="Include" />
+      <e p="PasarLista.resx" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="RegistroGeneral.cs" t="Include" />
+      <e p="RegistroGeneral.Designer.cs" t="Include" />
+      <e p="RegistroGeneral.resx" t="Include" />
+      <e p="ResumenAdministrador.cs" t="Include" />
+      <e p="ResumenAdministrador.Designer.cs" t="Include" />
+      <e p="ResumenAdministrador.resx" t="Include" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34fc6419-7bee-4dff-8755-e4f64925bc28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Option.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RegistroGeneral.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgregarDepartamento.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ResumenAdministrador.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgregarDepartamento.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ResumenAdministrador.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Empleado.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Empleado.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EliminarUsuarioGerente.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EliminarUsuarioGerente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgregarUsuarioGerente.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgregarUsuarioGerente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PasarLista.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PasarLista.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gerente.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gerente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RegistroGeneral.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgregarVigilante.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgregarVigilante.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Conexion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Option.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Conexion.cs" />
+        <option value="$PROJECT_DIR$/Empleado.Designer.cs" />
+        <option value="$PROJECT_DIR$/Option.Designer.cs" />
+        <option value="$PROJECT_DIR$/Seguridad.Designer.cs" />
+        <option value="$PROJECT_DIR$/Seguridad.cs" />
+        <option value="$PROJECT_DIR$/Vigilante.Designer.cs" />
+        <option value="$PROJECT_DIR$/Gerente.Designer.cs" />
+        <option value="$PROJECT_DIR$/PasarLista.Designer.cs" />
+        <option value="$PROJECT_DIR$/Registrarse.Designer.cs" />
+        <option value="$PROJECT_DIR$/AgregarUsuarioGerente.Designer.cs" />
+        <option value="$PROJECT_DIR$/EliminarUsuarioGerente.Designer.cs" />
+        <option value="$PROJECT_DIR$/EliminarUsuarioGerente.cs" />
+        <option value="$PROJECT_DIR$/Empleado.cs" />
+        <option value="$PROJECT_DIR$/AgregarVigilante.Designer.cs" />
+        <option value="$PROJECT_DIR$/AgregarUsuarioVigilante.Designer.cs" />
+        <option value="$PROJECT_DIR$/AgregarVigilante.cs" />
+        <option value="$PROJECT_DIR$/PasarLista.cs" />
+        <option value="$PROJECT_DIR$/Form1.cs" />
+        <option value="$PROJECT_DIR$/AgregarDepartamento.Designer.cs" />
+        <option value="$PROJECT_DIR$/AgregarUsuarioGerente.cs" />
+        <option value="$PROJECT_DIR$/Option.cs" />
+        <option value="$PROJECT_DIR$/ResumenAdministrador.Designer.cs" />
+        <option value="$PROJECT_DIR$/Gerente.cs" />
+        <option value="$PROJECT_DIR$/AgregarDepartamento.cs" />
+        <option value="$PROJECT_DIR$/RegistroGeneral.Designer.cs" />
+        <option value="$PROJECT_DIR$/RegistroGeneral.cs" />
+        <option value="$PROJECT_DIR$/ResumenAdministrador.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e8jsz3yqF3iz8CupnM0jHJpl8d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Parcial3" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Parcial3.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34fc6419-7bee-4dff-8755-e4f64925bc28" name="Default Changelist" comment="" />
+      <created>1593710324700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593710324700</updated>
+      <workItem from="1593710327778" duration="842000" />
+      <workItem from="1593711483120" duration="1094000" />
+      <workItem from="1593712837190" duration="614000" />
+      <workItem from="1593713496013" duration="1790000" />
+      <workItem from="1593715352488" duration="1554000" />
+      <workItem from="1593716975029" duration="3284000" />
+      <workItem from="1593722257189" duration="209000" />
+      <workItem from="1593722507768" duration="542000" />
+      <workItem from="1593723073772" duration="1998000" />
+      <workItem from="1593725123523" duration="2010000" />
+      <workItem from="1593727203585" duration="210000" />
+      <workItem from="1593727443002" duration="181000" />
+      <workItem from="1593728435435" duration="92000" />
+      <workItem from="1593728536478" duration="631000" />
+      <workItem from="1593729180832" duration="1162000" />
+      <workItem from="1593730406040" duration="116000" />
+      <workItem from="1593730547640" duration="1754000" />
+      <workItem from="1593732344672" duration="724000" />
+      <workItem from="1593733073965" duration="2600000" />
+      <workItem from="1593736448265" duration="134000" />
+      <workItem from="1593736589346" duration="1760000" />
+      <workItem from="1593739686391" duration="249000" />
+      <workItem from="1593739946024" duration="6475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1593746856097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593746856097" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1593746856097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593746856097" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1593746856097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593746856097" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1593746856097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593746856097" />
+  </component>
+</project>
